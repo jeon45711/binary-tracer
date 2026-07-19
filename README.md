@@ -59,5 +59,3 @@ Inspired by the node structure of Cisco Packet Tracer, it bridges the gap betwee
 * **Community Board:** Integrated Q&A platform for users to collaborate and resolve logic design queries.
 
 ---
-
-*(Replace the image URLs above with your repository's actual file path once assets are recorded and uploaded!)*
