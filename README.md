@@ -1,17 +1,11 @@
 # ⚡ Binary Tracer
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeon45711/binary-tracer/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeon45711/binary-tracer/mmain/assets/banner-light.png">
-  <img alt="Binary Tracer Banner" src="https://raw.githubusercontent.com/jeon45711/binary-tracer/mmain/assets/banner-light.png" width="100%">
-</picture>
-
 <br />
 
 <div align="center">
 
 <a href="https://binary-tracer.com" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Visit%20Website-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/%20LIVE%20DEMO-Visit%20Website-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
 </a>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
