@@ -1,4 +1,4 @@
-# ![Binary Tracer](./assets/logo.svg)
+# ![Binary Tracer](./assets/logo.svg) Binary Tracer
 
 <br />
 
