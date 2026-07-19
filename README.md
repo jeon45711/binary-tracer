@@ -1,4 +1,4 @@
-# Binary Tracer
+# <img src="./assets/ logo.svg" width="20" height="20"> Binary Tracer
 
 <br />
 
