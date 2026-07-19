@@ -55,7 +55,6 @@ Inspired by the node structure of Cisco Packet Tracer, it bridges the gap betwee
 ## 🌐 Platform Ecosystem
 
 * **Official Documentation Hub:** Guides covering fundamental gates, complex combinations, standard integrated circuits, and visualization mechanics.
-* **Lobby & Cloud Storage Server:** Built-in web server framework enabling online room lobbies and cross-platform file saving architecture.
 * **Community Board:** Integrated Q&A platform for users to collaborate and resolve logic design queries.
 
 ---
