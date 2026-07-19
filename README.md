@@ -1,11 +1,5 @@
 # ⚡ Binary Tracer
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/banner-light.png">
-  <img alt="Binary Tracer Banner" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/banner-light.png" width="100%">
-</picture>
-
 <br />
 
 <div align="center">
