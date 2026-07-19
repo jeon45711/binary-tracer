@@ -60,11 +60,4 @@ Inspired by the node structure of Cisco Packet Tracer, it bridges the gap betwee
 
 ---
 
-## 📷 Gameplay & Interaction Demos
-
-| Wiring & Real-Time Glowing | Hover Event: Pinout Slide-out |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/jeon45711/binary-tracer/main/assets/demo-wiring.gif" width="380px" alt="Wiring Demo"> 
-| <img src="https://raw.githubusercontent.com/jeon45711/binary-tracer/main/assets/demo-hover.gif" width="380px" alt="Hover Demo"> |
-
 *(Replace the image URLs above with your repository's actual file path once assets are recorded and uploaded!)*
